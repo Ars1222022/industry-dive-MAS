@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "export_date": "20260528_193217",
+    "region": "Hela Sverige",
+    "period": "alla_perioder",
+    "total_technologies": 9,
+    "total_jobs_analyzed": 0
+  },
+  "technologies": [
+    {
+      "technology": "Git",
+      "frequency": 10
+    },
+    {
+      "technology": "Java",
+      "frequency": 2
+    },
+    {
+      "technology": "C#",
+      "frequency": 2
+    },
+    {
+      "technology": "Python",
+      "frequency": 2
+    },
+    {
+      "technology": "Databricks",
+      "frequency": 2
+    },
+    {
+      "technology": "Spring",
+      "frequency": 1
+    },
+    {
+      "technology": "Azure",
+      "frequency": 1
+    },
+    {
+      "technology": "TypeScript",
+      "frequency": 1
+    },
+    {
+      "technology": "Flask",
+      "frequency": 1
+    }
+  ],
+  "certifications": [
+    {
+      "technology": "Git",
+      "certification": "Free GIT Course Online with Certificate",
+      "provider": "Simplilearn",
+      "price": "Gratis",
+      "hours": "Varierar",
+      "url": "https://www.simplilearn.com/learn-git-basics-skillup",
+      "why": "Lär dig Git grundläggande",
+      "alternatives": "Coursera, YouTube",
+      "frequency": 10
+    },
+    {
+      "technology": "Java",
+      "certification": "Oracle Java Certification",
+      "provider": "Oracle",
+      "price": "Varierar",
+      "hours": "Varierar",
+      "url": "https://www.myexamcloud.com/blog/oracle-java-certification-path-2025-career-guide.article",
+      "why": "Ökar karriärmöjligheter",
+      "alternatives": "Java SE Developer, OCPJP",
+      "frequency": 2
+    },
+    {
+      "technology": "C#",
+      "certification": "Foundational C#",
+      "provider": "Microsoft",
+      "price": "Gratis",
+      "hours": "35",
+      "url": "https://devblogs.microsoft.com/dotnet/announcing-foundational-csharp-certification",
+      "why": "Globally available, free",
+      "alternatives": "Microsoft Certifications For .Net Developers",
+      "frequency": 2
+    },
+    {
+      "technology": "Python",
+      "certification": "PCAP",
+      "provider": "Udemy",
+      "price": " Gratis (via YouTube)",
+      "hours": "Varierar",
+      "url": "https://www.youtube.com/watch?v=kh4LYhd5Pkg",
+      "why": "Lär dig Python programmering",
+      "alternatives": "PCEP, PCPP",
+      "frequency": 2
+    },
+    {
+      "technology": "Databricks",
+      "certification": "Databricks Certified Data Engineer Associate",
+      "provider": "Databricks",
+      "price": "Gratis",
+      "hours": "Varierar",
+      "url": "https://www.databricks.com/learn/certification/data-engineer-associate",
+      "why": "Öka kompetensen inom data engineering",
+      "alternatives": "Google Cloud Certified - Professional Data Engineer, Microsoft Certified: Azure Data Engineer Associate",
+      "frequency": 2
+    },
+    {
+      "technology": "Spring",
+      "certification": "Spring Framework: LearnQuest",
+      "provider": "Coursera",
+      "price": "Gratis",
+      "hours": "20",
+      "url": "https://www.coursera.org/courses?query=spring+framework",
+      "why": "Lär dig Spring Framework",
+      "alternatives": "Spring Framework for Java Development, Mastering Spring",
+      "frequency": 1
+    },
+    {
+      "technology": "Azure",
+      "certification": "Microsoft Certified: Azure Developer Associate",
+      "provider": "Microsoft",
+      "price": "Gratis (studieguide), 1800 SEK (examen)",
+      "hours": "120",
+      "url": "https://learn.microsoft.com/en-us/certifications/azure-developer/",
+      "why": "Karriär inom molntjänster",
+      "alternatives": "AWS Developer Associate, Google Cloud Developer",
+      "frequency": 1
+    },
+    {
+      "technology": "TypeScript",
+      "certification": "TypeScript Masterclass",
+      "provider": "Udemy",
+      "price": "495 SEK",
+      "hours": "10",
+      "url": "https://www.udemy.com/topic/typescript",
+      "why": "Lär dig TypeScript grundligt",
+      "alternatives": "Class Central, Medium",
+      "frequency": 1
+    },
+    {
+      "technology": "Flask",
+      "certification": "Flask Certificate Course",
+      "provider": "Coursesity",
+      "price": "Gratis",
+      "hours": "10",
+      "url": "https://coursesity.com/blog/best-flask-courses",
+      "why": "Bästa introduktionen till Flask",
+      "alternatives": "Udemy, Quick Code",
+      "frequency": 1
+    }
+  ]
+}
